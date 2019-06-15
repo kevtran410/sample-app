@@ -1,0 +1,8 @@
+{
+  "sampleApp": "Sample app",
+  "login": {
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Mật khẩu"
+  },
+  "logout": "Đăng xuất"
+}

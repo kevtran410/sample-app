@@ -1,0 +1,8 @@
+{
+  "sampleApp": "Sample App",
+  "login": {
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password"
+  },
+  "logout": "Log out"
+}
