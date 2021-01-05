@@ -15,7 +15,7 @@
     "ios": "react-native run-ios --configuration Debug --scheme 'SampleApp'"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "i18n-js": "^3.3.0",
     "react": "16.8.3",
     "react-native": "0.59.9",
